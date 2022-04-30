@@ -1,0 +1,10 @@
+.theme1-theme {
+          --color-brand-color: #8bb1f9;
+  --color-white: #ffffff;
+  --color-black: #000001;
+  --space-xs: 2;
+  --space-sm: 2;
+  --space-md: 8;
+  --space-lg: 16;
+  --space-xl: 32;
+      }
