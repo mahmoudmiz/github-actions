@@ -1,0 +1,10 @@
+.five_star_nutrition-theme {
+          --color-brand-color: #8bc1f7;
+  --color-white: #ffffff;
+  --color-black: #000000;
+  --space-xs: 2;
+  --space-sm: 4;
+  --space-md: 8;
+  --space-lg: 16;
+  --space-xl: 32;
+      }
